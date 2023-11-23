@@ -1,0 +1,1592 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.14)  10 NOV 2023 23:49
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**e:/BaiduSyncdisk/Codes/LaTeX/test.tex
+(e:/BaiduSyncdisk/Codes/LaTeX/test.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (e:/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls (e:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
+) (e:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+ (e:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count185
+\l__pdf_internal_box=\box51
+))
+Document Class: ctexart 2022/07/14 v2.5.10 Chinese adapter for class article (CTEX)
+(e:/texlive/2023/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+) (e:/texlive/2023/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2022/07/14 v2.5.10 Patching commands (CTEX)
+) (e:/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (e:/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count186
+\l__ctex_tmp_box=\box52
+\l__ctex_tmp_dim=\dimen140
+\g__ctex_section_depth_int=\count187
+\g__ctex_font_size_int=\count188
+ (e:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2022/07/14 v2.5.10 Option configuration file (CTEX)
+)
+
+Class ctexart Warning: UTF8 will be used as the default encoding.
+
+(e:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(e:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+) (e:/texlive/2023/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2022/07/14 v2.5.10 (pdf)LaTeX adapter (CTEX)
+ (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+ (e:/texlive/2023/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (e:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (e:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+ (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+) (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box53
+) (e:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)) (e:/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count197
+\CJKpunct@cntb=\count198
+\CJKpunct@cntc=\count199
+\CJKpunct@cntd=\count266
+\CJKpunct@cnte=\count267
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (e:/texlive/2023/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+) (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+) (e:/texlive/2023/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2022/07/14 v2.5.10 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip50
+)
+\l__ctex_ziju_dim=\dimen143
+ (e:/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2022/07/14 v3.0 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count268
+\l__zhnum_tmp_int=\count269
+ (e:/texlive/2023/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2022/07/14 v3.0 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip51
+ (e:/texlive/2023/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2022/07/14 v2.5.10 Chinese scheme for article (CTEX)
+ (e:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2022/07/14 v2.5.10 Caption with encoding UTF-8 (CTEX)
+)) (e:/texlive/2023/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2022/07/14 v2.5.10 c5size option (CTEX)
+) (e:/texlive/2023/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2022/07/14 v2.5.10 Windows fonts definition (CTEX)
+)) (e:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2022/07/14 v2.5.10 Configuration file (CTEX)
+) (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (e:/texlive/2023/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+) (./test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 9.
+ (e:/texlive/2023/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+)
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+<to be read again> 
+                   \mathchardef 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \mathchardef 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \mathchardef 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \mathchardef 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \mathchardef 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing $ inserted.
+<inserted text> 
+                $
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+<to be read again> 
+                   OT1/cmr/m/n/10.53937/3c 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was looking for a control sequence whose
+current meaning has been defined by \font.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Extra }, or forgotten $.
+<recently read> }
+                 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: You can't use `\spacefactor' in math mode.
+\add@accent ...f \accent@spacefactor \spacefactor 
+                                                  }\let \maybe@load@fontshap...
+l.11 latex命令以反斜杠"\"�
+                                ��始
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Extra }, or forgotten $.
+\add@accent ... \accent@spacefactor \spacefactor }
+                                                  \let \maybe@load@fontshape...
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+<to be read again> 
+                   \egroup 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+<to be read again> 
+                   \ifmmode 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \egroup 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \egroup 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \egroup 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \egroup 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 latex命令以反斜杠"\"�
+                                ��始
+The third byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:12: LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \usepackage
+                [options]{package}   //相当于#include
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:12: You can't use `macro parameter character #' in math mode.
+<recently read> ##
+                  
+l.12 \usepackage[options]{package}   //相当于#
+                                                 include
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:13: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.13 
+     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14 行
+        内公式 $x^2+y^2=z^2$    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Extra }, or forgotten $.
+<recently read> }
+                 
+l.14 行
+        内公式 $x^2+y^2=z^2$    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
+<recently read> $
+                 
+l.14 行内公式 $
+                   x^2+y^2=z^2$    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14 行内公式 $x^
+                     2+y^2=z^2$    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
+l.14 行内公式 $x^2+y^2=z^2$
+                                   $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
+l.14 ...z^2$    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
+                                                  
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:15: Missing $ inserted.
+<inserted text> 
+                $
+l.15 整
+        行公式\[
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:15: Extra }, or forgotten $.
+<recently read> }
+                 
+l.15 整
+        行公式\[
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:15: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 整行公式\[
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:17: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \]
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:18: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.18 
+     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:19: Math formula deleted: Insufficient symbol fonts.
+<recently read> $
+                 
+l.19 \begin{equation}
+                     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \begin{equation}
+                     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:20: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20     \[
+           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:22: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.22 
+     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:23: Missing $ inserted.
+<inserted text> 
+                $
+l.23     \]
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:23: LaTeX Error: Bad math environment delimiter.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23     \]
+           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: You can't use `\eqno' in math mode.
+\endequation ->\eqno 
+                     \hbox {\@eqnnum }$$\@ignoretrue 
+l.25 \end{equation}
+                   
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{equation}
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Extra }, or forgotten $.
+\@eqnnum ...rmalfont \normalcolor (\theequation )}
+                                                  
+l.25 \end{equation}
+                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Extra }, or forgotten $.
+\endequation ->\eqno \hbox {\@eqnnum }
+                                      $$\@ignoretrue 
+l.25 \end{equation}
+                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
+\endequation ->\eqno \hbox {\@eqnnum }$
+                                       $\@ignoretrue 
+l.25 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.25 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 \end{equation}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.25 \end{equation}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+l.28 LaTex会
+             对插入的公式图表等自动调整编号
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:28: Extra }, or forgotten $.
+<recently read> }
+                 
+l.28 LaTex会
+             对插入的公式图表等自动调整编号
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:29: Missing $ inserted.
+<inserted text> 
+                $
+l.29 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:29: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.29 
+     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+l.35 插
+        入图片：
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:35: Extra }, or forgotten $.
+<recently read> }
+                 
+l.35 插
+        入图片：
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37     \includegraphics
+                         [options(可以不填)]{test.png}
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Undefined control sequence.
+\@xfloat ...@fltovf \fi \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.37     \includegraphics
+                         [options(可以不填)]{test.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.37     \includegraphics
+                         [options(可以不填)]{test.png}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Missing $ inserted.
+<inserted text> 
+                $
+l.37     \includegraphics
+                         [options(可以不填)]{test.png}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 37.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Undefined control sequence.
+<recently read> \includegraphics 
+                                 
+l.37     \includegraphics
+                         [options(可以不填)]{test.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:38: Missing $ inserted.
+<inserted text> 
+                $
+l.38 \end{figure}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:38: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.38 \end{figure}
+                 
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:39: Missing $ inserted.
+<inserted text> 
+                $
+l.39 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:39: Math formula deleted: Insufficient symbol fonts.
+<inserted text> $
+                 
+l.39 
+     
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:40: Missing $ inserted.
+<inserted text> 
+                $
+l.40 插
+        入表格：
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:40: Extra }, or forgotten $.
+<recently read> }
+                 
+l.40 插
+        入表格：
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Missing number, treated as zero.
+<to be read again> 
+                   w
+l.41 \begin{tabular*}{width}
+                            [pos]{cols}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   w
+l.41 \begin{tabular*}{width}
+                            [pos]{cols}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Missing $ inserted.
+<inserted text> 
+                $
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `\halign' in math mode.
+\@preamble ->\everycr {}\tabskip \z@skip \halign 
+                                                 \@halignto \bgroup \relax \...
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+\@preamble ...fil \hskip 1sp\ignorespaces \@sharp 
+                                                  \unskip \hfil }\hskip \tab...
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+\@preamble ...fil \hskip 1sp\ignorespaces \@sharp 
+                                                  \unskip \hfil }\hskip \tab...
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+\@preamble ...ep {\hskip 1sp\ignorespaces \@sharp 
+                                                  \unskip \hfil }\hskip \tab...
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+\@preamble ...ep {\hskip 1sp\ignorespaces \@sharp 
+                                                  \unskip \hfil }\hskip \tab...
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced \cr.
+\@preamble ...kip \tabcolsep \tabskip \z@skip \cr 
+                                                  
+l.41 \begin{tabular*}{width}[pos]{cols}
+                                       
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.42     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Missing $ inserted.
+<inserted text> 
+                $
+l.42     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Missing } inserted.
+<inserted text> 
+                }
+l.42     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Missing } inserted.
+<inserted text> 
+                }
+l.42     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Math formula deleted: Insufficient symbol fonts.
+<recently read> $
+                 
+l.42     \hline
+               
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:43: Misplaced alignment tab character &.
+l.43     1 &
+             2 & 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:43: Misplaced alignment tab character &.
+l.43     1 & 2 &
+                 3 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:44: Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.44     4
+           & 5 & 6 \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:44: Misplaced alignment tab character &.
+l.44     4 &
+             5 & 6 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:44: Misplaced alignment tab character &.
+l.44     4 & 5 &
+                 6 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:45: Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.45     7
+           & 8 & 9 \\
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:45: Misplaced alignment tab character &.
+l.45     7 &
+             8 & 9 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:45: Misplaced alignment tab character &.
+l.45     7 & 8 &
+                 9 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Misplaced \cr.
+\reserved@c ->\ifnum 0=`{\fi }\cr 
+                                  
+l.46     \hline
+               
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.46     \hline
+               
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+l.46     \hline
+               
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Missing } inserted.
+<inserted text> 
+                }
+l.46     \hline
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Math formula deleted: Insufficient symbol fonts.
+<recently read> $
+                 
+l.46     \hline
+               
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: You can't use `\hrule' here except with leaders.
+<recently read> \hrule 
+                       
+l.46     \hline
+               
+To put a horizontal rule in an hbox or an alignment,
+you should use \leaders or \hrulefill (see The TeXbook).
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Missing number, treated as zero.
+<to be read again> 
+                   \futurelet 
+l.46     \hline
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \futurelet 
+l.46     \hline
+               
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Misplaced \crcr.
+\endtabular* ->\crcr 
+                     \egroup \egroup $\egroup 
+l.47 \end{tabular*}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Extra }, or forgotten \endgroup.
+\endtabular* ->\crcr \egroup 
+                             \egroup $\egroup 
+l.47 \end{tabular*}
+                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Extra }, or forgotten \endgroup.
+\endtabular* ->\crcr \egroup \egroup 
+                                     $\egroup 
+l.47 \end{tabular*}
+                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Math formula deleted: Insufficient symbol fonts.
+<recently read> $
+                 
+l.47 \end{tabular*}
+                   
+Sorry, but I can't typeset math unless \textfont 2
+and \scriptfont 2 and \scriptscriptfont 2 have all
+the \fontdimen values needed in math symbol fonts.
+
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: LaTeX Error: \begin{document} ended by \end{tabular*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \end{tabular*}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+<inserted text> 
+                }
+l.47 \end{tabular*}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.47 \end{tabular*}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 49.
+
+LaTeX Warning: Citation `keylist' on page 1 undefined on input line 50.
+
+(e:/texlive/2023/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{e:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+] (./test.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4868 strings out of 477892
+ 103532 string characters out of 5837256
+ 1851382 words of memory out of 5000000
+ 24984 multiletter control sequences out of 15000+600000
+ 519249 words of font info for 54 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
+ 78i,9n,80p,718b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><e:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><e:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (1 page, 89390 bytes).
+PDF statistics:
+ 93 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
