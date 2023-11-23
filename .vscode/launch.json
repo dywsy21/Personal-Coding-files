@@ -5,12 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "dap-wl",
-            "request": "attach",
-            "name": "Create a new Wolfram Kernel"
-        },
-
-        {
             "name": "g++.exe",
             "type": "cppdbg",
             "request": "launch",
