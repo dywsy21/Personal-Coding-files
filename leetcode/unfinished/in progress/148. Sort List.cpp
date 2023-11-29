@@ -22,21 +22,23 @@ void swap(ListNode* prev){ //prev->x->y, swap(x,y)
 
 class Solution {
 public:
-    ListNode* partition(ListNode* head, int x) {
-        ListNode* dummy = new ListNode(0, head);
-        bool done = true;
+    ListNode* sortList(ListNode* head) {
+        if(!head || !head->next) return head;
+        auto dummy = new ListNode;
+        dummy->next = head;
         while(1){
-            done = true;
-            ListNode* cur = dummy;
-            while(cur->next && cur->next->next){
-                if(cur->next->val >= x && cur->next->next->val < x){
-                    swap(cur);
-                    done = false;
-                }
-                cur = cur->next;
+            auto temp = dummy;
+            bool flag = true;
+            while(temp->next && temp->next->next){
+                if(temp->next->val > temp->next->next->val){
+                    swap(temp);
+                    flag = false;
+                } 
+                temp = temp->next;
             }
-            if(done) break;
+            if(flag) break;
         }
         return dummy->next;
     }
 };
+

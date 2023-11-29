@@ -11,6 +11,5 @@ public:
         for(const auto& character: t) T_count[character]++;
 
         return S_count == T_count;
-
     }
 };

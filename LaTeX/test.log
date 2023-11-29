@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.14)  10 NOV 2023 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.14)  28 NOV 2023 23:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**e:/BaiduSyncdisk/Codes/LaTeX/test.tex
-(e:/BaiduSyncdisk/Codes/LaTeX/test.tex
+**e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex
+(e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (e:/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls (e:/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
@@ -270,7 +270,7 @@ LaTeX Font Info:    Trying to load font information for C70+rm on input line 9.
  (e:/texlive/2023/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
 )
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Improper alphabetic constant.
 <to be read again> 
                    \global 
 l.11 latex命令以反斜杠"\"�
@@ -278,7 +278,7 @@ l.11 latex命令以反斜杠"\"�
 A one-character control sequence belongs after a ` mark.
 So I'm essentially inserting \0 here.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Improper alphabetic constant.
 <to be read again> 
                    \mathchardef 
 l.11 latex命令以反斜杠"\"�
@@ -286,30 +286,14 @@ l.11 latex命令以反斜杠"\"�
 A one-character control sequence belongs after a ` mark.
 So I'm essentially inserting \0 here.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing = inserted for \ifnum.
 <to be read again> 
                    \global 
 l.11 latex命令以反斜杠"\"�
                                 ��始
 I was expecting to see `<', `=', or `>'. Didn't.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
-<to be read again> 
-                   \global 
-l.11 latex命令以反斜杠"\"�
-                                ��始
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
-<to be read again> 
-                   \global 
-l.11 latex命令以反斜杠"\"�
-                                ��始
-I was expecting to see `<', `=', or `>'. Didn't.
-
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
 <to be read again> 
                    \global 
 l.11 latex命令以反斜杠"\"�
@@ -318,14 +302,30 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+I was expecting to see `<', `=', or `>'. Didn't.
+
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.11 latex命令以反斜杠"\"�
+                                ��始
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing = inserted for \ifnum.
 <to be read again> 
                    \mathchardef 
 l.11 latex命令以反斜杠"\"�
                                 ��始
 I was expecting to see `<', `=', or `>'. Didn't.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
 <to be read again> 
                    \mathchardef 
 l.11 latex命令以反斜杠"\"�
@@ -334,14 +334,14 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing = inserted for \ifnum.
 <to be read again> 
                    \mathchardef 
 l.11 latex命令以反斜杠"\"�
                                 ��始
 I was expecting to see `<', `=', or `>'. Didn't.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
 <to be read again> 
                    \mathchardef 
 l.11 latex命令以反斜杠"\"�
@@ -350,7 +350,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
 <to be read again> 
                    \advance 
 l.11 latex命令以反斜杠"\"�
@@ -359,7 +359,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing $ inserted.
 <inserted text> 
                 $
 l.11 latex命令以反斜杠"\"�
@@ -367,7 +367,7 @@ l.11 latex命令以反斜杠"\"�
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -375,7 +375,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -383,7 +383,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -391,7 +391,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -399,7 +399,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -407,7 +407,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -415,7 +415,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -423,7 +423,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -431,7 +431,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -439,7 +439,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -447,7 +447,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -455,7 +455,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing font identifier.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing font identifier.
 <to be read again> 
                    OT1/cmr/m/n/10.53937/3c 
 l.11 latex命令以反斜杠"\"�
@@ -463,7 +463,7 @@ l.11 latex命令以反斜杠"\"�
 I was looking for a control sequence whose
 current meaning has been defined by \font.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Extra }, or forgotten $.
 <recently read> }
                  
 l.11 latex命令以反斜杠"\"�
@@ -474,7 +474,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: You can't use `\spacefactor' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: You can't use `\spacefactor' in math mode.
 \add@accent ...f \accent@spacefactor \spacefactor 
                                                   }\let \maybe@load@fontshap...
 l.11 latex命令以反斜杠"\"�
@@ -484,7 +484,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Extra }, or forgotten $.
 \add@accent ... \accent@spacefactor \spacefactor }
                                                   \let \maybe@load@fontshape...
 l.11 latex命令以反斜杠"\"�
@@ -495,7 +495,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Please use \mathaccent for accents in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Please use \mathaccent for accents in math mode.
 \add@accent ... \let \ignorespaces \relax \accent 
                                                   #1 #2\egroup \ifmmode \els...
 l.11 latex命令以反斜杠"\"�
@@ -503,7 +503,7 @@ l.11 latex命令以反斜杠"\"�
 I'm changing \accent to \mathaccent here; wish me luck.
 (Accents are not the same in formulas as they are in text.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Improper alphabetic constant.
 <to be read again> 
                    \egroup 
 l.11 latex命令以反斜杠"\"�
@@ -511,7 +511,7 @@ l.11 latex命令以反斜杠"\"�
 A one-character control sequence belongs after a ` mark.
 So I'm essentially inserting \0 here.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Improper alphabetic constant.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Improper alphabetic constant.
 <to be read again> 
                    \ifmmode 
 l.11 latex命令以反斜杠"\"�
@@ -519,14 +519,14 @@ l.11 latex命令以反斜杠"\"�
 A one-character control sequence belongs after a ` mark.
 So I'm essentially inserting \0 here.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing = inserted for \ifnum.
 <to be read again> 
                    \egroup 
 l.11 latex命令以反斜杠"\"�
                                 ��始
 I was expecting to see `<', `=', or `>'. Didn't.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
 <to be read again> 
                    \egroup 
 l.11 latex命令以反斜杠"\"�
@@ -535,14 +535,14 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing = inserted for \ifnum.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing = inserted for \ifnum.
 <to be read again> 
                    \egroup 
 l.11 latex命令以反斜杠"\"�
                                 ��始
 I was expecting to see `<', `=', or `>'. Didn't.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Missing number, treated as zero.
 <to be read again> 
                    \egroup 
 l.11 latex命令以反斜杠"\"�
@@ -552,7 +552,7 @@ A number should have been here; I inserted `0'.
 look up `weird error' in the index to The TeXbook.)
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:11: Package CJK Error: Invalid character code.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:11: Package CJK Error: Invalid character code.
 
 See the CJK package documentation for explanation.
 Type  H <return>  for immediate help.
@@ -564,7 +564,7 @@ The third byte of the CJK code is out of range.
 Do you use the right encoding scheme?
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:12: LaTeX Error: Can be used only in preamble.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:12: LaTeX Error: Can be used only in preamble.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -576,7 +576,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:12: You can't use `macro parameter character #' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:12: You can't use `macro parameter character #' in math mode.
 <recently read> ##
                   
 l.12 \usepackage[options]{package}   //相当于#
@@ -586,7 +586,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:13: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:13: Missing $ inserted.
 <inserted text> 
                 $
 l.13 
@@ -594,7 +594,7 @@ l.13
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:13: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:13: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.13 
@@ -603,7 +603,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:14: Missing $ inserted.
 <inserted text> 
                 $
 l.14 行
@@ -611,7 +611,7 @@ l.14 行
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:14: Extra }, or forgotten $.
 <recently read> }
                  
 l.14 行
@@ -622,7 +622,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
 <recently read> $
                  
 l.14 行内公式 $
@@ -631,7 +631,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:14: Missing $ inserted.
 <inserted text> 
                 $
 l.14 行内公式 $x^
@@ -639,21 +639,21 @@ l.14 行内公式 $x^
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
 l.14 行内公式 $x^2+y^2=z^2$
                                    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
 Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:14: Math formula deleted: Insufficient symbol fonts.
 l.14 ...z^2$    $x^{2+a}_{2n}+y^{2+a}_{2n}=z_{2n}$
                                                   
 Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:15: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:15: Missing $ inserted.
 <inserted text> 
                 $
 l.15 整
@@ -661,7 +661,7 @@ l.15 整
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:15: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:15: Extra }, or forgotten $.
 <recently read> }
                  
 l.15 整
@@ -673,7 +673,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:15: LaTeX Error: Bad math environment delimiter.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:15: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -686,7 +686,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:17: LaTeX Error: Bad math environment delimiter.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:17: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -698,7 +698,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:18: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:18: Missing $ inserted.
 <inserted text> 
                 $
 l.18 
@@ -706,7 +706,7 @@ l.18
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:18: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:18: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.18 
@@ -715,7 +715,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:19: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:19: Math formula deleted: Insufficient symbol fonts.
 <recently read> $
                  
 l.19 \begin{equation}
@@ -724,7 +724,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:19: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:19: Missing $ inserted.
 <inserted text> 
                 $
 l.19 \begin{equation}
@@ -733,7 +733,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:20: LaTeX Error: Bad math environment delimiter.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:20: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -745,7 +745,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:22: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:22: Missing $ inserted.
 <inserted text> 
                 $
 l.22 
@@ -753,7 +753,7 @@ l.22
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:22: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:22: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.22 
@@ -762,7 +762,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:23: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:23: Missing $ inserted.
 <inserted text> 
                 $
 l.23     \]
@@ -771,7 +771,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:23: LaTeX Error: Bad math environment delimiter.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:23: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -783,7 +783,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: You can't use `\eqno' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: You can't use `\eqno' in math mode.
 \endequation ->\eqno 
                      \hbox {\@eqnnum }$$\@ignoretrue 
 l.25 \end{equation}
@@ -793,7 +793,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Missing $ inserted.
 <inserted text> 
                 $
 l.25 \end{equation}
@@ -801,7 +801,7 @@ l.25 \end{equation}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Extra }, or forgotten $.
 \@eqnnum ...rmalfont \normalcolor (\theequation )}
                                                   
 l.25 \end{equation}
@@ -812,7 +812,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Extra }, or forgotten $.
 \endequation ->\eqno \hbox {\@eqnnum }
                                       $$\@ignoretrue 
 l.25 \end{equation}
@@ -823,7 +823,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
 \endequation ->\eqno \hbox {\@eqnnum }$
                                        $\@ignoretrue 
 l.25 \end{equation}
@@ -832,7 +832,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Missing $ inserted.
 <inserted text> 
                 $
 l.25 \end{equation}
@@ -843,7 +843,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.25 \end{equation}
@@ -852,7 +852,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Missing } inserted.
 <inserted text> 
                 }
 l.25 \end{equation}
@@ -863,7 +863,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Missing } inserted.
 <inserted text> 
                 }
 l.25 \end{equation}
@@ -874,7 +874,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Missing $ inserted.
 <inserted text> 
                 $
 l.25 \end{equation}
@@ -885,7 +885,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:25: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.25 \end{equation}
@@ -894,7 +894,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:28: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:28: Missing $ inserted.
 <inserted text> 
                 $
 l.28 LaTex会
@@ -902,7 +902,7 @@ l.28 LaTex会
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:28: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:28: Extra }, or forgotten $.
 <recently read> }
                  
 l.28 LaTex会
@@ -913,7 +913,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:29: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:29: Missing $ inserted.
 <inserted text> 
                 $
 l.29 
@@ -921,7 +921,7 @@ l.29
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:29: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:29: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.29 
@@ -930,7 +930,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:35: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:35: Missing $ inserted.
 <inserted text> 
                 $
 l.35 插
@@ -938,7 +938,7 @@ l.35 插
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:35: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:35: Extra }, or forgotten $.
 <recently read> }
                  
 l.35 插
@@ -950,7 +950,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: LaTeX Error: Not in outer par mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:37: LaTeX Error: Not in outer par mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -961,7 +961,7 @@ l.37     \includegraphics
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Undefined control sequence.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:37: Undefined control sequence.
 \@xfloat ...@fltovf \fi \global \setbox \@currbox 
                                                   \color@vbox \normalcolor \...
 l.37     \includegraphics
@@ -972,7 +972,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:37: Missing number, treated as zero.
 <to be read again> 
                    \vbox 
 l.37     \includegraphics
@@ -981,7 +981,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:37: Missing $ inserted.
 <inserted text> 
                 $
 l.37     \includegraphics
@@ -992,7 +992,7 @@ you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Warning: Command \normalsize invalid in math mode on input line 37.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:37: Undefined control sequence.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:37: Undefined control sequence.
 <recently read> \includegraphics 
                                  
 l.37     \includegraphics
@@ -1003,7 +1003,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:38: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:38: Missing $ inserted.
 <inserted text> 
                 $
 l.38 \end{figure}
@@ -1011,7 +1011,7 @@ l.38 \end{figure}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:38: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:38: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.38 \end{figure}
@@ -1020,7 +1020,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:39: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:39: Missing $ inserted.
 <inserted text> 
                 $
 l.39 
@@ -1028,7 +1028,7 @@ l.39
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:39: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:39: Math formula deleted: Insufficient symbol fonts.
 <inserted text> $
                  
 l.39 
@@ -1037,7 +1037,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:40: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:40: Missing $ inserted.
 <inserted text> 
                 $
 l.40 插
@@ -1045,7 +1045,7 @@ l.40 插
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:40: Extra }, or forgotten $.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:40: Extra }, or forgotten $.
 <recently read> }
                  
 l.40 插
@@ -1056,7 +1056,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Missing number, treated as zero.
 <to be read again> 
                    w
 l.41 \begin{tabular*}{width}
@@ -1065,7 +1065,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Illegal unit of measure (pt inserted).
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Illegal unit of measure (pt inserted).
 <to be read again> 
                    w
 l.41 \begin{tabular*}{width}
@@ -1077,7 +1077,7 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Missing $ inserted.
 <inserted text> 
                 $
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1086,7 +1086,7 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: LaTeX Error: Illegal character in array arg.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1098,7 +1098,7 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: LaTeX Error: Illegal character in array arg.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: LaTeX Error: Illegal character in array arg.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1109,7 +1109,7 @@ l.41 \begin{tabular*}{width}[pos]{cols}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `\halign' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: You can't use `\halign' in math mode.
 \@preamble ->\everycr {}\tabskip \z@skip \halign 
                                                  \@halignto \bgroup \relax \...
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1119,7 +1119,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
 \@preamble ...fil \hskip 1sp\ignorespaces \@sharp 
                                                   \unskip \hfil }\hskip \tab...
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1129,7 +1129,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Misplaced alignment tab character &.
 <recently read> &
                  
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1141,7 +1141,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
 \@preamble ...fil \hskip 1sp\ignorespaces \@sharp 
                                                   \unskip \hfil }\hskip \tab...
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1151,7 +1151,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Misplaced alignment tab character &.
 <recently read> &
                  
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1163,7 +1163,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
 \@preamble ...ep {\hskip 1sp\ignorespaces \@sharp 
                                                   \unskip \hfil }\hskip \tab...
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1173,7 +1173,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Misplaced alignment tab character &.
 <recently read> &
                  
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1185,7 +1185,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: You can't use `macro parameter character #' in math mode.
 \@preamble ...ep {\hskip 1sp\ignorespaces \@sharp 
                                                   \unskip \hfil }\hskip \tab...
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1195,7 +1195,7 @@ I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:41: Misplaced \cr.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:41: Misplaced \cr.
 \@preamble ...kip \tabcolsep \tabskip \z@skip \cr 
                                                   
 l.41 \begin{tabular*}{width}[pos]{cols}
@@ -1206,7 +1206,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Misplaced \noalign.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:42: Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
 l.42     \hline
@@ -1214,7 +1214,7 @@ l.42     \hline
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:42: Missing $ inserted.
 <inserted text> 
                 $
 l.42     \hline
@@ -1222,7 +1222,7 @@ l.42     \hline
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:42: Missing } inserted.
 <inserted text> 
                 }
 l.42     \hline
@@ -1233,7 +1233,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:42: Missing } inserted.
 <inserted text> 
                 }
 l.42     \hline
@@ -1244,7 +1244,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:42: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:42: Math formula deleted: Insufficient symbol fonts.
 <recently read> $
                  
 l.42     \hline
@@ -1253,7 +1253,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:43: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:43: Misplaced alignment tab character &.
 l.43     1 &
              2 & 3 \\
 I can't figure out why you would want to use a tab mark
@@ -1263,7 +1263,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:43: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:43: Misplaced alignment tab character &.
 l.43     1 & 2 &
                  3 \\
 I can't figure out why you would want to use a tab mark
@@ -1273,7 +1273,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:44: Misplaced \cr.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:44: Misplaced \cr.
 \reserved@c ->\ifnum 0=`{\fi }\cr 
                                   
 l.44     4
@@ -1284,7 +1284,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:44: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:44: Misplaced alignment tab character &.
 l.44     4 &
              5 & 6 \\
 I can't figure out why you would want to use a tab mark
@@ -1294,7 +1294,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:44: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:44: Misplaced alignment tab character &.
 l.44     4 & 5 &
                  6 \\
 I can't figure out why you would want to use a tab mark
@@ -1304,7 +1304,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:45: Misplaced \cr.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:45: Misplaced \cr.
 \reserved@c ->\ifnum 0=`{\fi }\cr 
                                   
 l.45     7
@@ -1315,7 +1315,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:45: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:45: Misplaced alignment tab character &.
 l.45     7 &
              8 & 9 \\
 I can't figure out why you would want to use a tab mark
@@ -1325,7 +1325,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:45: Misplaced alignment tab character &.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:45: Misplaced alignment tab character &.
 l.45     7 & 8 &
                  9 \\
 I can't figure out why you would want to use a tab mark
@@ -1335,7 +1335,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Misplaced \cr.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Misplaced \cr.
 \reserved@c ->\ifnum 0=`{\fi }\cr 
                                   
 l.46     \hline
@@ -1346,7 +1346,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Misplaced \noalign.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
 l.46     \hline
@@ -1354,7 +1354,7 @@ l.46     \hline
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Missing $ inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Missing $ inserted.
 <inserted text> 
                 $
 l.46     \hline
@@ -1362,7 +1362,7 @@ l.46     \hline
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Missing } inserted.
 <inserted text> 
                 }
 l.46     \hline
@@ -1373,7 +1373,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Math formula deleted: Insufficient symbol fonts.
 <recently read> $
                  
 l.46     \hline
@@ -1382,7 +1382,7 @@ Sorry, but I can't typeset math unless \textfont 2
 and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: You can't use `\hrule' here except with leaders.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: You can't use `\hrule' here except with leaders.
 <recently read> \hrule 
                        
 l.46     \hline
@@ -1390,7 +1390,7 @@ l.46     \hline
 To put a horizontal rule in an hbox or an alignment,
 you should use \leaders or \hrulefill (see The TeXbook).
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Missing number, treated as zero.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Missing number, treated as zero.
 <to be read again> 
                    \futurelet 
 l.46     \hline
@@ -1399,7 +1399,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:46: Illegal unit of measure (pt inserted).
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:46: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \futurelet 
 l.46     \hline
@@ -1411,7 +1411,7 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Misplaced \crcr.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Misplaced \crcr.
 \endtabular* ->\crcr 
                      \egroup \egroup $\egroup 
 l.47 \end{tabular*}
@@ -1422,7 +1422,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Extra }, or forgotten \endgroup.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Extra }, or forgotten \endgroup.
 \endtabular* ->\crcr \egroup 
                              \egroup $\egroup 
 l.47 \end{tabular*}
@@ -1433,7 +1433,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Extra }, or forgotten \endgroup.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Extra }, or forgotten \endgroup.
 \endtabular* ->\crcr \egroup \egroup 
                                      $\egroup 
 l.47 \end{tabular*}
@@ -1444,7 +1444,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing \endgroup inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
 l.47 \end{tabular*}
@@ -1455,7 +1455,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Math formula deleted: Insufficient symbol fonts.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Math formula deleted: Insufficient symbol fonts.
 <recently read> $
                  
 l.47 \end{tabular*}
@@ -1465,7 +1465,7 @@ and \scriptfont 2 and \scriptscriptfont 2 have all
 the \fontdimen values needed in math symbol fonts.
 
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: LaTeX Error: \begin{document} ended by \end{tabular*}.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: LaTeX Error: \begin{document} ended by \end{tabular*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1477,7 +1477,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1488,7 +1488,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1499,7 +1499,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1510,7 +1510,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1521,7 +1521,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1532,7 +1532,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1543,7 +1543,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Missing } inserted.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Missing } inserted.
 <inserted text> 
                 }
 l.47 \end{tabular*}
@@ -1554,7 +1554,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-e:/BaiduSyncdisk/Codes/LaTeX/test.tex:47: Extra \endgroup.
+e:/BaiduSyncdisk/Codes/Personal-Coding-files/LaTeX/test.tex:47: Extra \endgroup.
 <recently read> \endgroup 
                           
 l.47 \end{tabular*}
@@ -1576,12 +1576,12 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  4868 strings out of 477892
- 103532 string characters out of 5837256
+ 103598 string characters out of 5837256
  1851382 words of memory out of 5000000
  24984 multiletter control sequences out of 15000+600000
  519249 words of font info for 54 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 78i,9n,80p,718b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,9n,80p,740b,350s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><e:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><e:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 Output written on test.pdf (1 page, 89390 bytes).
 PDF statistics:
