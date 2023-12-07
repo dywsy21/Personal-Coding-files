@@ -3,7 +3,7 @@ int* get_one_dimensional_array(int n) {
   return int_array;
 }
 
-int* get_two_dimensional_array(int rows, int cols){
+int** get_two_dimensional_array(int rows, int cols){
 //先malloc行再malloc列
 
 int** matrix=(int**) malloc(rows*sizeof(int));

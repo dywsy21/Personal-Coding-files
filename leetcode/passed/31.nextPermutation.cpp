@@ -1,6 +1,4 @@
-#include <iostream>
-#include<stdio.h>
-#include<stdlib.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 void swap(int* a, int* b) {
@@ -53,7 +51,7 @@ int main() {
         cout << nums[i] << " ";
     }
     cout << endl;
-
+    
     system("pause");
     return 0;
 }

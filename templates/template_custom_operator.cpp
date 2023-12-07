@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-ostream& operator<<(ostream& s, vector<auto> vec){
+
+template<typename T>
+ostream& operator<<(ostream& s, vector<T> vec){
     for(auto ele: vec) s << ele << ' ';
     return s;
 }
